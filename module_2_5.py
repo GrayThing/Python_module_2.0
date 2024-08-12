@@ -7,5 +7,9 @@ def get_matrix(n, m, value):
     return matrix
 
 
-result = get_matrix(4, 2, 13)
-print(result)
+result1 = get_matrix(4, 2, 13)
+result2 = get_matrix(9, 6, 50)
+result3 = get_matrix(2, 10, 1)
+print(result1)
+print(result2)
+print(result3)
